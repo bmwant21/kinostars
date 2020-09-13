@@ -9,4 +9,4 @@ redis==2.9.1
 selenium==3.0.2
 soupsieve==2.0.1
 uWSGI==2.0.14
-Werkzeug==0.9.4
+Werkzeug==0.15.3
